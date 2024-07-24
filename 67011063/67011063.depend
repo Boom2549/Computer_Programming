@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1720932439 source:c:\67011063\lab1.c
+	<stdio.h>
+
+1584205420 source:c:\67011063\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1720943922 source:c:\67011063\lab2\l01.c
+	<stdio.h>
+
+1720945195 source:c:\67011063\lab2\l02.c
+	<stdio.h>
+
+1720948148 source:c:\67011063\lab2\l03.c
+	<stdio.h>
+
+1720951911 source:c:\67011063\lab2\l04.c
+	<stdio.h>
+
+1721272145 source:c:\67011063\exercise\week3\week3.c
+	<stdio.h>
+
+1721273773 source:c:\67011063\exercise\week3\1.c
+	<stdio.h>
+
+1721276942 source:c:\67011063\exercise\week3\3.2.c
+	<stdio.h>
+
+1721277410 source:c:\67011063\exercise\week3\3.3.c
+	<stdio.h>
+
+1721277818 source:c:\67011063\exercise\week3\3.4.c
+	<stdio.h>
+
+1721546830 source:c:\67011063\lab3\l01.c
+	<stdio.h>
+
+1721547529 source:c:\67011063\lab3\l02.c
+	<stdio.h>
+
+1721548240 source:c:\67011063\lab3\ep = mgh.c
+	<stdio.h>
+
+1721548823 source:c:\67011063\lab3\programmin score.c
+	<stdio.h>
+
