@@ -2,7 +2,7 @@
 
 int main()
 {
-    int x, y, z;
+    /*int x, y, z;
     float max, min;
     printf(" ***Find Maximum / Minimum ***\n");
     printf("Enter 3 intrgers : ");
@@ -24,6 +24,9 @@ int main()
     else if (z<=x && z<= y)
         min = z;
 
-    printf("Max / Min = %.0f / %.0f = %.3f", max, min, max / min);
+    printf("Max / Min = %.0f / %.0f = %.3f", max, min, max / min);*/
+
+    char x[4] = {'C', 'o', 'm', '\0'};
+    printf("%c", x[2]);
     return 0;
 }
