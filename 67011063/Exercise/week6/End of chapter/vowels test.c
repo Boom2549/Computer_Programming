@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 void printSquare(int n) {
-    if (n < 2) {
-        printf("Please enter a number greater than or equal to 2.\n");
+    if (n < 3) {
+        printf("Please enter a number greater than or equal to 3.\n");
         return;
     }
 
