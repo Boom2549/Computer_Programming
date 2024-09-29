@@ -1,0 +1,23 @@
+#include<stdio.h> 
+#include <string.h>
+int main() 
+{ 
+    //initialize struct function
+    struct profile { 
+    char name[50]; 
+    char id[10]; 
+    int age; 
+    };
+ struct profile student;
+ 
+ //ASSIGN VARIABLE
+ strcpy(student.name, "Somchai");
+ strcpy(student.id, "70011111");
+ student.age = 17;
+ 
+ //OUTPUT
+ printf("Name : %s\n", student.name);
+ printf("ID : %s\n", student.id);
+ printf("Age : %d\n", student.age);
+ return 0; 
+} 

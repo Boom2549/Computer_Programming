@@ -1,0 +1,23 @@
+#include <stdio.h>
+int checkprime(int);
+int main()
+{
+    int a, b, i;
+    printf("Input num start : ");
+    scanf("%d", &a);
+    printf("Input num stop : ");
+    scanf("%d", &b);
+    printf("\n");
+    for(int i = a; i<b; i++)
+        if(checkprime(i))
+            printf("%d ", i);
+    return 0;
+}
+int checkprime(int number) {
+    for(int i = 2; i<number; i++) {
+        if (number % i == 0)
+            return 0;
+    }
+    
+    return 1;
+}
